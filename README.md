@@ -24,7 +24,7 @@ This repository documents my systematic journey through **Andrew Ng's legendary 
 -  Practice scientific communication by writing clear comments and documentation.
 
 ## 📂 Learning progress
--I will record my learning progress each weak by module,from linear regression to decision-making tree.
+-I will record my learning progress each week by module,from linear regression to decision-making tree.
 
 
 ## 🙏 Acknowledgement（致谢）
