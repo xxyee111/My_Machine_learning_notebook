@@ -23,9 +23,25 @@ This repository documents my systematic journey through **Andrew Ng's legendary 
 -  Build a personal reference guide for future projects and interviews.
 -  Practice scientific communication by writing clear comments and documentation.
 
-## 📂 Learning progress
+## 📂 structure progress
 -I will record my learning progress each week by module,from linear regression to decision-making tree.
-
+machine-learning-journey
+│
+├── 📄 README.md       # 仓库门面，用我们之前讨论的模板
+├── 📄 LICENSE         # 开源许可证
+│
+├── 📁 week_01_linear_regression/
+│   ├── 📄 annotated_code.py
+│   ├── 📗 data
+│   └── 🗺️ mind_map.pdf
+│
+├── 📁 week_02_logistic_regression and neural network/
+│   ├── 📄 annotated_code.py
+│   ├── 📗 data
+│   └── 🗺️ mind_map.pdf
+│
+├──
+└── 
 
 ## 🙏 Acknowledgement（致谢）
 
